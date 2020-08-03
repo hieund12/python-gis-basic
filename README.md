@@ -1,17 +1,44 @@
 # PythonxGIS basic
 
 ### Python Tutorials for Beginners
-* Bài 1:  Mở đầu
-* Bài 2:  Các toán tử, Error và Exception Handling, biểu thức IF
-* Bài 3:  Python Loops
-* Bài 4:  Python math function
-* Bài 5:  Hàm trong Python
-* Bài 6:  List & Slice
-* Bài 7:  Xử lý chuỗi
-* Bài 8.  Numpy
-* Bài 9:  Xử lý File
-* Bài 10: Ôn tập
-* Bài 11. Requests library - GET & POST requests (basic)
-* Bài 12. Requests - Advanced Usage
-* Bài 13. Regular expression operations
-* Bài 14. Chuyên đề xử lý dữ liệu thô cơ bản
+* Lesson 1:  Warm up:
+    * How to Install Python on Windows with Pycharm IDE
+    * Python PIP
+    * Hello World: Creat your First Python Program
+    * Python Variables: Declare, Concatenate, Global & Local, Comments, Exception Handling
+    * User input
+* Lesson 2:  Data Types, Casting
+    * Strings
+    * Booleans
+    * Lists
+    * Sets
+    * Tuples
+    * Dictionaries
+
+* Lesson 3: Python Operators
+    * Arithmetic operators
+    * Assignment operators
+    * Comparison operators
+    * Logical operators
+    * Identity operators
+    * Membership operators
+    * Bitwise operators
+
+* Lesson 4:  Python Loops
+    * If...Else
+    * While Loops
+    * For Looops
+* Lesson 5:  Python Functions
+    * Python Function, Scope
+    * Python Lambda
+    * Python math function
+* Lesson 6:  List & Slice
+* Lesson 7:  String Handling
+* Lesson 8:  File Handling
+* Lesson 9:  Library Usage
+    * Python Modules
+    * Dates
+    * Math
+    * Json
+    * RegEx
+* Lesson 10: Review
